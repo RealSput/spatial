@@ -21,3 +21,13 @@ As of right now, the Spatial CLI only works on Windows. You should be able to us
 
 # Installation
 Fuck you
+
+# Usage
+First, install the Spatial framework globally by running:
+```
+spatial -d
+```
+Then, after you have written your Spatial code (in SPWNX) and want to compile it to SPWN, run:
+```
+spatial -i code.spwnx -o output.spwn
+```
