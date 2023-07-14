@@ -20,7 +20,7 @@ let my_tree = <tree>
 As of right now, the Spatial CLI only works on Windows. You should be able to use the Spatial library without the CLI, but you will not be able to write SPWNX code without the Spatial CLI. I plan to add support for more platforms later.
 
 # Installation
-Fuck you
+Use `npm i -g spatial-cli` to install the Spatial CLI.
 
 # Usage
 First, install the Spatial framework globally by running:
