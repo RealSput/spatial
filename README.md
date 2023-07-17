@@ -9,7 +9,7 @@ import spatial;
 @spatial::set_import("../spwn/all_components.sptlc")
 
 let my_tree = <tree>
-	<component name="some_blocks"/>
+	<some_blocks />
 	<text name="My text"> Hello, world! </text>
 </tree> 
 
